@@ -1,0 +1,2 @@
+刪除 MY_EMPLOYEE表格中所有的資料列
+Truncate table MY_EMPLOYEE
